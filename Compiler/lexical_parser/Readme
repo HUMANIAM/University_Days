@@ -1,0 +1,5 @@
+In this project I try to implement two phases of compilers in c++ language
+
+1- Lexical phase: convert source code into set of tokens in Lex.h
+
+2- Parser Phase: check that the grammer is okey by using recursive decent algorithm

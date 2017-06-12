@@ -1,0 +1,83 @@
+﻿
+    .auto-style1 {
+            text-align: center;
+        }
+        .auto-style2 {
+            background-color: #666666;
+        }
+        .newStyle1 {
+            color: #000099;
+        }
+        .newStyle2 {
+            color: #3333FF;
+    background-color: #0000CC;
+}
+        .wrapper {
+                   text-align: center;
+         }
+     
+        #btnLogin{
+            margin-top:40px;
+          color:blue;
+          font-size:20px;
+
+           margin:auto;
+          display:block;
+       }
+        
+          #btnaboutus{
+
+           margin:auto;
+          display:block;
+          
+          color:blue;
+          font-size:20px;
+       }
+
+          #btnacheivements{
+               margin:auto;
+          display:block;
+          color:blue;
+          font-size:20px;
+
+          }
+
+        #lblusrname{
+            font-size:25px;
+        }
+        #lblpassword{
+
+          font-size:25px;
+          padding-left:2px;
+        }
+
+        #btnsearch{
+            
+          margin:auto;
+          display:block;
+          color:blue;
+          font-size:20px;
+          }
+
+        #btnaddmain{
+               margin:auto;
+          display:block;
+          color:blue;
+          font-size:20px;
+          }
+        #btnaddpatient{
+           
+               margin:auto;
+          display:block;
+          color:blue;
+          font-size:20px;
+          }
+        #btnaddworker{
+               margin:auto;
+          display:block;
+          color:blue;
+          font-size:20px;
+          }
+        #lblpataddress{
+            margin-left:10px;
+        }

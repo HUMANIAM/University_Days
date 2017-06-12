@@ -1,0 +1,14 @@
+﻿Build started 16/01/2017 06:17:02 ص.
+     1>Project "C:\Users\Ibrahim\Desktop\pointers_and_inheritance\before virtual functions\before virtual functions.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\ibrahim\desktop\pointers_and_inheritance\before virtual functions\source.cpp(66): warning C4715: 'linkedlist::Get_Lastlink' : not all control paths return a value
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ibrahim\Desktop\pointers_and_inheritance\Debug\before virtual functions.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ibrahim\Desktop\pointers_and_inheritance\Debug\before virtual functions.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ibrahim\Desktop\pointers_and_inheritance\Debug\before virtual functions.lib" /MACHINE:X86 Debug\Source.obj
+         before virtual functions.vcxproj -> C:\Users\Ibrahim\Desktop\pointers_and_inheritance\Debug\before virtual functions.exe
+     1>Done Building Project "C:\Users\Ibrahim\Desktop\pointers_and_inheritance\before virtual functions\before virtual functions.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.64

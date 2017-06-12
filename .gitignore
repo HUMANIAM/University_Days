@@ -1,0 +1,8 @@
+#ignore .o files
+*.o
+*cbp
+*.depend
+bin
+obj
+.layout
+

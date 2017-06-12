@@ -1,0 +1,4 @@
+In this python code I tried to implement gui to get faces of Rubik''s cubic from the user 
+- Faces are taken in a dictionary where every key represent the center of the face and its values are colors of this face
+-this dictionary will be taken and pass to kassombia algorithms which will solve it.
+This is part of AI project

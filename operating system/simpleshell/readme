@@ -1,0 +1,5 @@
+this is simple shell in c language 
+usage: it does simple commands such as cd, ls, less, grep, cat,....etc
+       it also execute programs in the background 
+	
+I have implemented to learn how processes run in the os and how a process can fork anthor process from it

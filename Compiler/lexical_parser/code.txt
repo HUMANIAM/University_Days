@@ -1,0 +1,22 @@
+
+//this program calculate the avarage of some values
+#include<stdlib.h>
+#define M 5
+int main()
+{
+int counter=10;
+int x;
+int sum=0;
+while (counter>0)
+{
+printf("enter the first value");
+scanf("%d",&x);
+
+if(x<0)
+{printf("it isn't correct number");}
+else
+{printf("true number");}
+sum+=x;
+printf("your sum =%d",sum);
+}
+}

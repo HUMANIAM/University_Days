@@ -1,0 +1,5 @@
+This is project I have created in the software engineering course
+and it is about (Doctor's clinic) where it has many functions to do such as
+1-It has database for -Doctor -Nurse  -Secretary -Worker -Cleaner -Patient -Maintenance -Medical history
+2-web pages include -login page  -secretary page redirected to (pateint page and maintenace page)
+ -nurse page to add new medical report about a patient  	-doctor page have control to all these pages
